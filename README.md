@@ -26,7 +26,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho para 
   <img align="center" alt="Ale-Vercel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
 </div>
 
-<p>(Adicione ou remova tecnologias acima conforme sua necessidade. Visite o [Devicon](https://devicon.dev/) para mais ícones)</p>
+'<p>(Adicione ou remova tecnologias acima conforme sua necessidade. Visite o [Devicon](https://devicon.dev/) para mais ícones)</p>'
 
 ---
 
