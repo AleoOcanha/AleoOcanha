@@ -6,21 +6,21 @@
 
 ---
 
-### 👋 Olá, eu sou o Ale Ocanha
+### Olá, eu sou o Ale Ocanha
 
 Seja bem-vindo ao meu perfil! Sou desenvolvedor e fundador da **Alma³**. Aqui você encontrará os bastidores das soluções que crio para melhorar o dia a dia de empresas e empreendedores.
 
 ---
 
-### 🚀 O que a Alma³ faz por você:
+### O que a Alma³ faz por você:
 
-- 📱 **Desenvolvimento de Apps e Programas:** Soluções sob medida para necessidades específicas.
-- ⚙️ **Otimização de Rotinas:** Automação e melhoria de processos para ganhar tempo e escala.
-- 🛠️ **Consultoria Técnica:** Ajudo a escolher e implementar as melhores ferramentas para o seu negócio.
+- **Desenvolvimento de Apps e Programas:** Soluções sob medida para necessidades específicas.
+- **Otimização de Rotinas:** Automação e melhoria de processos para ganhar tempo e escala.
+- **Consultoria Técnica:** Ajudo a escolher e implementar as melhores ferramentas para o seu negócio.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 Utilizo um mix de tecnologias modernas e ferramentas de automação para entregar resultados rápidos e eficientes:
 
@@ -34,13 +34,13 @@ Utilizo um mix de tecnologias modernas e ferramentas de automação para entrega
 
 ---
 
-### 🤝 Vamos tirar sua ideia do papel?
+### Vamos tirar sua ideia do papel e da cabeça?
 
 Se você busca eficiência e quer automatizar sua empresa com a **Alma³**, entre em contato:
 
-- **LinkedIn:** [Seu Link Aqui]
-- **E-mail:** [Seu E-mail Aqui]
-- **Instagram:** [@alma3tecnologia] ---
+- **LinkedIn:** [https://www.linkedin.com/in/alexandre-ocanha-29a47539/]
+- **E-mail:** [aleoocanha@gmail.com]
+- **Site:** [www.almaaocubo.com.br] ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AleoOcanha&label=Perfil%20Views&color=2E7D32&style=flat-square" alt="Contador de Visitas" />
